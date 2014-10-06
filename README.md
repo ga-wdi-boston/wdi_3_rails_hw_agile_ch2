@@ -2,7 +2,7 @@
 
 Tonight you will read the Agile Development with Rails book, chapter 2 and code along with all examples in it. You will *also* read Chapter 3 in the same book. For those feeling a need to refresh on Ruby, also read Chapter 4 but no codealong is needed on that chapter.
 
-Additionally, make sure to use the `pry-rails` gem in the project.
+Additionally, make sure to use the `pry-byebug` gem in the project.
 
 ## Rubric
 
